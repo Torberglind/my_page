@@ -1,0 +1,22 @@
+div.wrapper {
+  background-image: url(https://i.imgur.com/FloUGEv.jpg);
+  background-size: cover;
+  width: 100%;
+  min-height: 640px;
+  position: center;
+}
+div.description{
+  position: absolute; /* absolute position (so we can position it where we want)*/;
+  top: 50%;
+  width:100%;
+  /* styling bellow */
+  background-color:black;
+  color:white;
+  opacity:0.6; /* transparency */
+  filter:alpha(opacity=60); /* IE transparency */
+}
+p.description_content{
+  text-align: center;
+  padding:10px;
+  font-size: 30px;
+}

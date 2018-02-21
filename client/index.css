@@ -1,3 +1,9 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+/*
 header {
     display: block;
     background-color: black;
@@ -20,3 +26,4 @@ footer {
     background-color: black;
     color: white;
 }
+*/

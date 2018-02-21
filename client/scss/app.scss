@@ -1,0 +1,15 @@
+@import "variables";
+
+//components
+@import "home-page";
+
+html {
+  background: $background-color;
+  height: 100%;
+}
+
+body {
+  //background: $background-color;
+  margin: 0;
+}
+
